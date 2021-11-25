@@ -1,0 +1,8 @@
+Board type: CC2652R1
+Device type: Router
+Serial bootloader (SBL): P13
+Manufacturer name: WhizzyLabs
+Model ID: whizzy.router
+Update firmware's timestamp : 2021-11-04
+Status LED: P07, Periodic (every 5 seconds)
+Set default reporting interval (s): 60
